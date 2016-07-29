@@ -8,12 +8,15 @@ class Helloworld {
 
 object Helloworld {
 
-  def main(args: Array[String]): Unit = {
-    println("hello world 0")
-    println("hello world 1")
-    println("hello world 1")
-    println("hello world 1")
-    println("hello world 1")
-    println("hello world 2")
-  }
+def main(args: Array[String]): Unit = {
+  println("hello world 0")
+  println("hello world 1")
+  println("hello world 1")
+  println("hello world 1")
+  println("hello world 1")
+  println("hello world 2")
+  println("hello world 44444")
+  println("hello world 44444")
+  println("hello world 44444")
+}
 }
